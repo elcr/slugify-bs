@@ -1,5 +1,5 @@
 {
-    "name": "slugify-re",
+    "name": "slugify-bs",
     "bsc-flags": ["-bs-super-errors"],
     "reason": {
       "react-jsx": 3
